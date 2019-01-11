@@ -1,0 +1,64 @@
+#intro {
+  font-family: Century Gothic;
+  text-align: center;
+}
+
+.tittle {
+  font-family: Century Gothic;
+  text-align: center;
+}
+
+body { 
+  background-color: white;
+  color: #grey;
+  font-family: "Arial";
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-family: "Arial";
+  opacity: .7;
+}
+
+#title {
+  text-align: center
+}
+
+.group {
+  border: dashed purple;
+  text-align: center; 
+  opacity: .9;
+    width: 200px;
+  margin: auto;
+}
+
+.otherCom {
+  text-align: center;
+  border: dashed blue;
+  opacity: .9;
+    width: 200px;
+  margin: auto;
+}
+
+.header {
+  text-align: center;
+  border: dashed DeepPink;
+  opacity: .9;
+  width: 200px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.center{
+  text-align: center;
+  border: moss green
+}
+
+h4 {
+  text-align: center;
+}
